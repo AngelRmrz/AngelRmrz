@@ -1,4 +1,4 @@
-### Hi there i'm just another dev, this can improve 👋
+### Hi there i'm just another frontend developer, this can improve 👋
 
 <!--
 **AngelRmrz/AngelRmrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
