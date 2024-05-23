@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel Ramirez</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">Just another dev 👾 </h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
